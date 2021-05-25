@@ -11,9 +11,11 @@ Kakao API를 이용하기 위해선 developers.kakao 에 등록을 한뒤, 내 �
 [https://developers.kakao.com/]
 
  - 원본 이미지
+​
 ![tofu](https://user-images.githubusercontent.com/52443092/119504331-d32b8e80-bda6-11eb-8229-d9a764737493.jpg)
 
  - 결과 화면
+​
 ![image](https://user-images.githubusercontent.com/52443092/119504398-e3436e00-bda6-11eb-894e-79a9339f8cf3.png)
 
  - 결과는 다음과 같이 JSON형식의 file로 나온다.
