@@ -1,6 +1,6 @@
 # Kakao_ocr
 
-### 3\. Google Colab으로 Kakao OCR 이용하기
+## Google Colab으로 Kakao OCR 이용하기
 ​
 Kakao API를 이용하기 위해선 developers.kakao 에 등록을 한뒤, 내 프로젝트를 등록하여 rest api key를 받아야 한다. 
 ​
@@ -10,15 +10,17 @@ Kakao API를 이용하기 위해선 developers.kakao 에 등록을 한뒤, 내 �
 ​
 [https://developers.kakao.com/]
 
+ - 원본 이미지
 ![tofu](https://user-images.githubusercontent.com/52443092/119504331-d32b8e80-bda6-11eb-8229-d9a764737493.jpg)
 
+ - 결과 화면
 ![image](https://user-images.githubusercontent.com/52443092/119504398-e3436e00-bda6-11eb-894e-79a9339f8cf3.png)
 
  - 결과는 다음과 같이 JSON형식의 file로 나온다.
 
  - box 범위는 다음과 같이 Integer형식으로 나오는데 나는 이것을 사진에서 어떤 범위인지 사진으로 받고 싶었다.
 
-#### 3.3  ocr api 호출 : 이미지 범위 확인하기
+## 이미지와 인식된 이미지 함께 보기
 
 이미지를 잘라서 확인하려하니, text범위가 사선으로 되어있는 경우 자르기가 애매한 경우가 많았다. 
 
