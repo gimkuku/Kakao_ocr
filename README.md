@@ -10,9 +10,11 @@ Kakao API를 이용하기 위해선 developers.kakao 에 등록을 한뒤, 내 �
 ​
 [https://developers.kakao.com/]
 
-[##_Image|kage@zSxT9/btq5HElp4el/KGjJHs7gU7LOgDa11xYRp0/img.png|alignLeft|data-origin-width="316" data-origin-height="325" data-ke-mobilestyle="widthOrigin"|||_##]
+![tofu](https://user-images.githubusercontent.com/52443092/119504331-d32b8e80-bda6-11eb-8229-d9a764737493.jpg)
 
- - 결과는 다음과 같이 JSON형식의 file로 나온다.
+![image](https://user-images.githubusercontent.com/52443092/119504398-e3436e00-bda6-11eb-894e-79a9339f8cf3.png)
+
+ - 결과는 다음과 같이 JSON형식의 file로 나온다.
 
  - box 범위는 다음과 같이 Integer형식으로 나오는데 나는 이것을 사진에서 어떤 범위인지 사진으로 받고 싶었다.
 
@@ -31,5 +33,4 @@ Kakao API를 이용하기 위해선 developers.kakao 에 등록을 한뒤, 내 �
 
 ​
 결과 화면
-
-[##_Image|kage@mRpLD/btq5J02GJRr/KunSSSJmTvHYagEBDXijxK/img.png|alignLeft|data-origin-width="362" data-origin-height="360" data-ke-mobilestyle="widthOrigin"|crop 된 이미지와 인식된 text가 함께 보여지는 모습||_##]
+![image](https://user-images.githubusercontent.com/52443092/119504434-edfe0300-bda6-11eb-8626-806799900758.png)
